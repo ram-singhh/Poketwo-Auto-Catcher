@@ -86,7 +86,7 @@ The only pieces needed to run the bot are `bot/` and `model/poketwo_detector_ful
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ramsingh4656/Poketwo-Auto-Catcher.git
+git clone https://github.com/ram-singhh/Poketwo-Auto-Catcher.git
 cd Poketwo-Auto-Catcher
 ```
 
